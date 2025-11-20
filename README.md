@@ -71,15 +71,15 @@ Here are a few projects I'm proud of building:
 
 
 <!-- FreeCodeCamp -->
-<a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" 
-       alt="FreeCodeCamp" style="width:50px; height:50px; border-radius:50%;">
+<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" 
+   style="text-decoration:none; color:white; background-color:#006400; padding:8px 16px; border-radius:8px; font-weight:bold; font-family:sans-serif;">
+   FreeCodeCamp
 </a>
 
 <!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" 
-       alt="HackerRank" style="width:50px; height:50px; border-radius:50%;">
+<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" 
+   style="text-decoration:none; color:white; background-color:#2EC866; padding:8px 16px; border-radius:8px; font-weight:bold; font-family:sans-serif;">
+   HackerRank
 </a>
 
 </div>
