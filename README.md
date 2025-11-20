@@ -60,24 +60,25 @@ Here are a few projects I'm proud of building:
 ---
 
 🌐 Find Me on
-<div align="center" style="display:flex; gap:15px; justify-content:center;">
+
+<div align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" 
-       alt="" style="border-radius:50%; width:40px; height:40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="LinkedIn" style="width:50px; height:50px; border-radius:50%;">
 </a>
 
 <!-- FreeCodeCamp -->
 <a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
-  <img src="https://img.shields.io/badge/FreeCodeCamp-006400?logo=freecodecamp&logoColor=white&style=flat-square" 
-       alt="" style="border-radius:50%; width:40px; height:40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" 
+       alt="FreeCodeCamp" style="width:50px; height:50px; border-radius:50%;">
 </a>
 
 <!-- HackerRank -->
 <a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square" 
-       alt="" style="border-radius:50%; width:40px; height:40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" 
+       alt="HackerRank" style="width:50px; height:50px; border-radius:50%;">
 </a>
 
 </div>
