@@ -89,30 +89,25 @@ Here are a few projects I'm proud of building:
 
 🌐 Find Me on
 
-<div align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
+<div align="center">
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       alt="LinkedIn" style="width:50px; height:50px; border-radius:50%;">
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
+  </a>
 
+  <!-- FreeCodeCamp (custom icon since skillicons doesn't support FCC) -->
+  <a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
+    <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" width="50px" />
+  </a>
 
-<!-- FreeCodeCamp -->
-<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block; text-decoration:none;">
-  <img src="https://img.shields.io/badge/-FreeCodeCamp-001F54?logo=freecodecamp&logoColor=white&style=for-the-badge" 
-       alt="FreeCodeCamp" 
-       style="border-radius:50%; width:50px; height:50px;">
-</a>
-
-<!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" style="display:inline-block; text-decoration:none;">
-  <img src="https://img.shields.io/badge/-HackerRank-004d00?logo=hackerrank&logoColor=white&style=for-the-badge" 
-       alt="HackerRank" 
-       style="border-radius:50%; width:50px; height:50px;">
-</a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="50px" />
+  </a>
 
 </div>
+
 
 
 
