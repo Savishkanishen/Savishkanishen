@@ -85,12 +85,8 @@ Here are a few projects I'm proud of building:
 
 </div>
 
-<!-- Hover Effect -->
-<style>
-a img:hover {
-    transform: scale(1.2);
-}
-</style>
+
+
 
 
 ---
