@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+ 👨‍💻 About Me  
 - 🌱 I’m currently learning **Java, Web Development (PHP, JavaScript), MySQL, React**  
 - 💡 My goal: Becoming a full-stack developer  
 - 🚀 I enjoy building small projects & solving real-world problems  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔧 Tech Stack  
+🔧 Tech Stack  
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📌 Featured Projects  
+📌 Featured Projects  
 Here are a few projects I'm proud of building:
 
 - **School Management System** — PHP + MySQL  
@@ -47,7 +47,7 @@ Here are a few projects I'm proud of building:
 
 ---
 
-## 📊 My GitHub Stats  
+📊 My GitHub Stats  
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savishkanishen&show_icons=true&theme=tokyonight)  
@@ -59,12 +59,12 @@ Here are a few projects I'm proud of building:
 
 ---
 
-## 🌐 Find Me Elsewhere  
+🌐 Find Me on
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savishka-nishen-a741742a3/)  
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/savishkanishen)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/savishkanishen9)
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=white&style=for-the-badge&color=0077B5)](https://www.linkedin.com/in/savishka-nishen-a741742a3/) 
+[![FreeCodeCamp](https://img.shields.io/badge/-?logo=freecodecamp&logoColor=white&style=for-the-badge&color=006400)](https://www.freecodecamp.org/savishkanishen) 
+[![HackerRank](https://img.shields.io/badge/-?logo=hackerrank&logoColor=white&style=for-the-badge&color=2EC866)](https://www.hackerrank.com/profile/savishkanishen9)
 
 </div>
 
@@ -78,7 +78,7 @@ Here are a few projects I'm proud of building:
 
 ---
 
-## 📚 Currently Learning  
+📚 Currently Learning  
 - *Clean Code*  
 - *React.js*
 - *Next.js*
