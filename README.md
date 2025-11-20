@@ -53,15 +53,6 @@ Here are a few projects I'm proud of building:
 
 </div>
 
----
-
-## 🐍 Contribution Snake  
-<div align="center">
-
-![Snake animation dark](https://raw.githubusercontent.com/Savishkanishen/Savishkanishen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![Snake animation light](https://raw.githubusercontent.com/Savishkanishen/Savishkanishen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 
 ---
 
