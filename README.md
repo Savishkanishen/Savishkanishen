@@ -70,18 +70,19 @@ Here are a few projects I'm proud of building:
 </a>
 
 
-<!-- FreeCodeCamp (Icon only, dark blue background) -->
-<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block;">
-  <img src="https://img.shields.io/badge/-?logo=freecodecamp&logoColor=white&style=for-the-badge&color=0D1B2A" 
+<!-- FreeCodeCamp -->
+<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block; text-decoration:none;">
+  <img src="https://img.shields.io/badge/-FreeCodeCamp-001F54?logo=freecodecamp&logoColor=white&style=for-the-badge" 
        alt="FreeCodeCamp" 
-       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
+       style="border-radius:50%; width:50px; height:50px;">
 </a>
 
 <!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" style="display:inline-block;">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" 
-       alt="HackerRank" 
-       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
+<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" 
+   style="display:inline-flex; align-items:center; text-decoration:none; color:white; background-color:#006400; padding:10px 18px; border-radius:10px; font-weight:bold; font-family:sans-serif; gap:8px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" 
+        alt="HackerRank" style="width:24px; height:24px;">
+   HackerRank
 </a>
 
 </div>
