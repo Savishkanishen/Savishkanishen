@@ -60,13 +60,38 @@ Here are a few projects I'm proud of building:
 ---
 
 🌐 Find Me on
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
 
-[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=white&style=for-the-badge&color=0077B5)](https://www.linkedin.com/in/savishka-nishen-a741742a3/) 
-[![FreeCodeCamp](https://img.shields.io/badge/-?logo=freecodecamp&logoColor=white&style=for-the-badge&color=006400)](https://www.freecodecamp.org/savishkanishen) 
-[![HackerRank](https://img.shields.io/badge/-?logo=hackerrank&logoColor=white&style=for-the-badge&color=2EC866)](https://www.hackerrank.com/profile/savishkanishen9)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
+       alt="LinkedIn" 
+       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
+</a>
+
+<!-- FreeCodeCamp -->
+<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/-FreeCodeCamp-006400?logo=freecodecamp&logoColor=white&style=for-the-badge" 
+       alt="FreeCodeCamp" 
+       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
+</a>
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" 
+       alt="HackerRank" 
+       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
+</a>
 
 </div>
+
+<!-- Hover Effect -->
+<style>
+a img:hover {
+    transform: scale(1.2);
+}
+</style>
+
 
 ---
 
