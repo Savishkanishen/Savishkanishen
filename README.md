@@ -6,6 +6,11 @@
   />
 </div>
 
+<!-- 🔹 3D / ANIMATED HERO SECTION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="3D Developer" width="420" style="border-radius: 20px;" />
+</div>
+
 ---
 
  👨‍💻 About Me  
@@ -29,6 +34,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 </div>
 
