@@ -69,10 +69,9 @@
 
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,spring,mysql,mongodb,firebase,postman&perline=6" />
-  <br />
-  <img src="https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,spring,mysql,sqlite,mongodb,firebase,postman&perline=6" />
 </div>
+
 
 
 
