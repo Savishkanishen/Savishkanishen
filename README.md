@@ -71,19 +71,17 @@ Here are a few projects I'm proud of building:
 
 
 <!-- FreeCodeCamp -->
-<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" 
-   style="display:flex; align-items:center; text-decoration:none; color:white; background-color:#006400; padding:8px 16px; border-radius:10px; font-weight:bold; font-family:sans-serif; gap:8px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" 
-        alt="FreeCodeCamp" style="width:24px; height:24px;">
-   FreeCodeCamp
+<a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/-FreeCodeCamp-006400?logo=freecodecamp&logoColor=white&style=for-the-badge" 
+       alt="FreeCodeCamp" 
+       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
 </a>
 
 <!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" 
-   style="display:flex; align-items:center; text-decoration:none; color:white; background-color:#2EC866; padding:8px 16px; border-radius:10px; font-weight:bold; font-family:sans-serif; gap:8px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" 
-        alt="HackerRank" style="width:24px; height:24px;">
-   HackerRank
+<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" 
+       alt="HackerRank" 
+       style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
 </a>
 
 </div>
