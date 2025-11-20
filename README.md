@@ -70,7 +70,7 @@ Here are a few projects I'm proud of building:
 ## 🎯 What I’m Working On  
 - Building more Java + Web-based projects  
 - Improving problem-solving on HackerRank & FreeCodeCamp  
-- Learning **React** and **REST APIs**  
+- Learning **React** and **Bootstrap** and **nextJS**
 - Exploring **GitHub Actions**
 
 ---
