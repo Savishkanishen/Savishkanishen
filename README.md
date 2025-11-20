@@ -96,33 +96,36 @@ Here are a few projects I'm proud of building:
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
   </a>
 
- <!-- FreeCodeCamp (White logo on black circle) -->
-  <a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
-    <img 
-      src="https://img.icons8.com/ios-filled/100/ffffff/freecodecamp.png" 
-      style="
-        width:55px; 
-        height:55px; 
-        padding:12px; 
-        background:#000; 
-        border-radius:50%;
-      "
-    />
-  </a>
+<!-- FreeCodeCamp (Clean, visible brand color icon) -->
+<a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/freecodecamp/0A0A23/ffffff" 
+    style="
+      width:55px;
+      height:55px;
+      padding:10px;
+      background:#0A0A23;
+      border-radius:50%;
+    "
+    alt="FreeCodeCamp"
+  />
+</a>
 
-  <!-- HackerRank (White logo on black circle) -->
-  <a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
-    <img 
-      src="https://img.icons8.com/ios-filled/100/ffffff/hackerrank.png" 
-      style="
-        width:55px; 
-        height:55px; 
-        padding:12px; 
-        background:#000; 
-        border-radius:50%;
-      "
-    />
-  </a>
+<!-- HackerRank (Visible green logo on black circle) -->
+<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/hackerrank/00EA64/ffffff"
+    style="
+      width:55px;
+      height:55px;
+      padding:10px;
+      background:#000;
+      border-radius:50%;
+    "
+    alt="HackerRank"
+  />
+</a>
+
 
 </div>
 
