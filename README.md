@@ -1,15 +1,45 @@
 <!-- Banner / Intro Typing Animation -->
+<!-- 🌟 PROFESSIONAL HERO SECTION -->
 <div align="center">
+
+  <!-- 🔥 Gradient Heading -->
+  <h1 style="
+    font-size: 40px; 
+    font-weight: 900; 
+    background: linear-gradient(90deg, #00eaff, #00ff88);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-bottom: 10px;
+  ">
+    👋 Hi, I'm Savishkanishen
+  </h1>
+
+  <!-- ✨ Typing Animation -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=3000&color=00FFEA&center=true&width=500&lines=Hi+I%27m+Savishkanishen+👋;Fresher+Developer+%7C+Lifelong+Learner;Welcome+to+my+GitHub+Profile" 
-    alt="Typing intro" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=600&lines=Fresher+Developer;Fast+Learner+%7C+Problem+Solver;Tech+Enthusiast+%7C+Creator;Welcome+to+my+GitHub+Profile!"
+    alt="Typing Animation"
   />
+
+  <!-- 🌐 Premium 3D GIF -->
+  <br/>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRyaTJ3MDFsZnphaG5idTNmeHdsZGc3MnFiY21taTJnc2Q1cWJldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif"
+    width="450"
+    style="border-radius: 20px; margin-top: 20px;"
+  />
+
+  <!-- 💠 Sub Heading -->
+  <p style="
+    font-size: 18px; 
+    margin-top: 20px; 
+    color: #cfcfcf;
+    max-width: 600px;
+  ">
+    Passionate about building modern web applications, learning new technologies, and creating digital experiences that matter.
+  </p>
+
 </div>
 
-<!-- 🔹 3D / ANIMATED HERO SECTION -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="3D Developer" width="420" style="border-radius: 20px;" />
-</div>
 
 ---
 
