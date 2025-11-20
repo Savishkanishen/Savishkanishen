@@ -70,9 +70,9 @@ Here are a few projects I'm proud of building:
 </a>
 
 
-<!-- FreeCodeCamp -->
+<!-- FreeCodeCamp (Icon only, dark blue background) -->
 <a href="https://www.freecodecamp.org/savishkanishen" target="_blank" style="display:inline-block;">
-  <img src="https://img.shields.io/badge/-FreeCodeCamp-006400?logo=freecodecamp&logoColor=white&style=for-the-badge" 
+  <img src="https://img.shields.io/badge/-?logo=freecodecamp&logoColor=white&style=for-the-badge&color=0D1B2A" 
        alt="FreeCodeCamp" 
        style="border-radius:50%; width:50px; height:50px; transition: transform 0.3s;">
 </a>
