@@ -96,14 +96,32 @@ Here are a few projects I'm proud of building:
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
   </a>
 
-  <!-- FreeCodeCamp (custom icon since skillicons doesn't support FCC) -->
+ <!-- FreeCodeCamp (White logo on black circle) -->
   <a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
-    <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" width="50px" />
+    <img 
+      src="https://img.icons8.com/ios-filled/100/ffffff/freecodecamp.png" 
+      style="
+        width:55px; 
+        height:55px; 
+        padding:12px; 
+        background:#000; 
+        border-radius:50%;
+      "
+    />
   </a>
 
-  <!-- HackerRank -->
+  <!-- HackerRank (White logo on black circle) -->
   <a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="50px" />
+    <img 
+      src="https://img.icons8.com/ios-filled/100/ffffff/hackerrank.png" 
+      style="
+        width:55px; 
+        height:55px; 
+        padding:12px; 
+        background:#000; 
+        border-radius:50%;
+      "
+    />
   </a>
 
 </div>
