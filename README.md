@@ -54,7 +54,7 @@
 🔧 Tech Stack  
 
 <div align="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,csharp,react,spring,mysql,sqlite,mongodb,firebase,postman,c,cpp,linux&perline="/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,react,spring,mysql,sqlite,mongodb,firebase,postman,c,cpp,linux&perline="/>
 </div>
 
 
