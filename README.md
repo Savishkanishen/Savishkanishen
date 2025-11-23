@@ -53,8 +53,8 @@
 
 🔧 Tech Stack  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,spring,mysql,sqlite,mongodb,firebase,postman,csharp,c,cpp,linux&perline=" />
+<div align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,spring,mysql,sqlite,mongodb,firebase,postman,csharp,c,cpp,linux&perline="/>
 </div>
 
 
