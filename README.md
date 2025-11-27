@@ -82,54 +82,21 @@ Here are a few projects I'm proud of building:
 
 🌐 Find Me on
 
-<div align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
-  </a>
-
-<!-- FreeCodeCamp (Clean, visible brand color icon) -->
-<a href="https://www.freecodecamp.org/savishkanishen" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/freecodecamp/0A0A23/ffffff" 
-    style="
-      width:55px;
-      height:55px;
-      padding:10px;
-      background:#0A0A23;
-      border-radius:50%;
-    "
-    alt="FreeCodeCamp"
-  />
+<div align="">
+  
+ <a href="https://www.linkedin.com/in/savishka-nishen-a741742a3/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="savishka-nishen" height="30" width="40" />
 </a>
 
-<!-- HackerRank (Visible green logo on black circle) -->
-<a href="https://www.hackerrank.com/profile/savishkanishen9" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/hackerrank/00EA64/ffffff"
-    style="
-      width:55px;
-      height:55px;
-      padding:10px;
-      background:#000;
-      border-radius:50%;
-    "
-    alt="HackerRank"
-  />
-</a>
 
+<a href="https://www.instagram.com/savishka.nishen" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+       alt="savishka.nishen" height="30" width="40" />
+</a>
 
 </div>
 
-
-
-
-
-
-
-
----
 
 ## 🎯 What I’m Working On  
 - Building more Java + Web-based projects  
