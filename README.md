@@ -14,19 +14,11 @@
     👋 Hi, I'm Savishkanishen
   </h1>
 
-  <!-- ✨ Typing Animation -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=600&lines=Fresher+Developer;Fast+Learner+%7C+Problem+Solver;Tech+Enthusiast+%7C+Creator;Welcome+to+my+GitHub+Profile!"
-    alt="Typing Animation"
-  />
-
   <!-- 🌐 Premium 3D GIF -->
   <br/>
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRyaTJ3MDFsZnphaG5idTNmeHdsZGc3MnFiY21taTJnc2Q1cWJldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif"
-    width="450"
-    style="border-radius: 20px; margin-top: 20px;"
-  />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated Background">
+</p>
 
   <!-- 💠 Sub Heading -->
   <p style="
