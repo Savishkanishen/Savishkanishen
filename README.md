@@ -69,13 +69,21 @@ Here are a few projects I'm proud of building:
 ---
 
 📊 My GitHub Stats  
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savishkanishen&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Savishkanishen&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Savishkanishen&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Savishkanishen&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Savishkanishen&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savishkanishen&layout=compact&theme=tokyonight" />
 
 </div>
+
+
+
+
+
 
 
 ---
