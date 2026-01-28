@@ -11,7 +11,7 @@
     color: transparent;
     margin-bottom: 10px;
   ">
-    👋 Hi, I'm Savishkanishen
+    👋 Hi, I'm Savishkan Nishen
   </h1>
 
   <!-- 🌐 Premium 3D GIF -->
